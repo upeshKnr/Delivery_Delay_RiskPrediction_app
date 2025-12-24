@@ -46,7 +46,7 @@ Loaded inside Streamlit using joblib.load()
 
 
 🧪 How to Run Locally
-git clone https://github.com/<your_repo_name>.git
+git clone https://github.com/upeshKnr/Delivery_Delay_RiskPrediction_app.git
 cd Delivery_Delay_Pred
 
 python -m venv venv
