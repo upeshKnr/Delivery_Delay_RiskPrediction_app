@@ -20,7 +20,7 @@ Output:
 Dataset → Cleaning → Feature Engineering → Model Training → Evaluation →
 Model Export (joblib) → Streamlit App → Deployment on Cloud
 
-# Tech Stack
+### Tech Stack
 Python, Pandas, NumPy
 scikit-learn
 joblib (model persistence)
@@ -51,7 +51,7 @@ cd Delivery_Delay_Pred
 
 python -m venv venv
 venv\Scripts\activate     # Windows
-# or source venv/bin/activate (Mac/Linux)
+or source venv/bin/activate (Mac/Linux)
 
 pip install -r requirements.txt
 streamlit run app.py
